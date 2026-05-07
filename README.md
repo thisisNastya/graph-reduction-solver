@@ -26,7 +26,7 @@
 
 *(Здесь представлен пример графа, который решает данная программа)*
 
-
+https://github.com/thisisNastya/graph-reduction-solver/blob/main/image.png?raw=true
 
 ## Как использовать
 
